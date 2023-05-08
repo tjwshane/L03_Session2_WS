@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount ($):</string>
+    <string name="number_of_pax">Number of Pax:</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="togglebutton2">ToggleButton</string>
+    <string name="discount">Discount (%):</string>
+    <string name="payment_mode">Payment Mode:</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">Paynow</string>
+    <string name="togglebutton3">ToggleButton</string>
+    <string name="togglebutton4">ToggleButton</string>
+    <string name="total_bill">Total Bill:</string>
+    <string name="each_pays">Each Pays:</string>
+</resources>
