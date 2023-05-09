@@ -46,9 +46,9 @@ public class MainActivity extends AppCompatActivity {
                     } else if (tbSVS.isChecked() && !tbGST.isChecked()) {
                         newAmount = Double.parseDouble(tvAmount.getText().toString()) * 1.1;
                     } else if (!tbSVS.isChecked() && tbGST.isChecked()) {
-                        newAmount = Double.parseDouble(tvAmount.getText().toString()) * 1.07;
+                        newAmount = Double.parseDouble(tvAmount.getText().toString()) * 1.08;
                     } else {
-                        newAmount = Double.parseDouble(tvAmount.getText().toString()) * 1.17;
+                        newAmount = Double.parseDouble(tvAmount.getText().toString()) * 1.18;
                     }
 
                     if (tvDiscount.getText().toString().trim().length()!= 0) {

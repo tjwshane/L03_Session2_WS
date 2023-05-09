@@ -5,6 +5,7 @@
     android:id="@+id/But"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="@color/white"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -213,14 +214,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Split" />
+            android:text="@string/split" />
 
         <Button
             android:id="@+id/ButtonReset"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Reset" />
+            android:text="@string/reset" />
 
     </LinearLayout>
 

@@ -12,4 +12,6 @@
     <string name="togglebutton4">ToggleButton</string>
     <string name="total_bill">Total Bill:</string>
     <string name="each_pays">Each Pays:</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
 </resources>
